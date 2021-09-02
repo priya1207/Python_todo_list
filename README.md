@@ -1,4 +1,4 @@
-#AUTHOR:HARIRPIYA.S
+# AUTHOR:HARIRPIYA.S
 # Python_todo_list
 
 Prerequisite : django installation
